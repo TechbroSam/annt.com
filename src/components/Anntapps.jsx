@@ -20,67 +20,8 @@ const Anntapps = () => {
 
       <div
         className="text--center--tablet text--center--mobile line-height--16 color--about-bg padding--5xlarge box--rounded--2xlarge margin-bottom--1xlarge--tablet margin--center text--center position--relative z-index--10"
-        style={{
-          paddingTop: 32,
-          paddingBottom: 32,
-          paddingLeft: 24,
-          paddingRight: 24,
-        }}
+
       >
-        <div
-          className=" color--text-white-base display--inline-block--tablet display--inline-block--mobile display--inline-block margin-top--large position--relative z-index--10 text--left"
-          style={{ marginTop: 0 }}
-        >
-          <p>
-            At ANNT, our vision is to create a new, decentralised
-            economy in Nigeria that is inclusive, transparent,
-            <br />
-            and empowering for all citizens, especially those that have
-            been at the receiving end of the ineptitudes
-            <br />
-            of successive government, since independence.
-            <br />
-            We envision a future where citizens of Nigeria have access
-            to a decentralised and transparent economy
-            <br />
-            through the use of blockchain technology. ANNT will be at
-            the forefront of this change, providing a<br />
-            secure, fast, and low-cost means of storing and transferring
-            value.
-            <br />
-            We also see ANNT as a catalyst for economic growth and
-            development in Nigeria, by facilitating the
-            <br />
-            creation of new businesses and industries built on
-            blockchain technology. We believe that the adoption
-            <br />
-            of ANNT and blockchain technology will lead to the creation
-            of new job opportunities and the growth of
-            <br />
-            the Nigerian economy.
-            <br />
-            In addition, we see ANNT as a powerful tool for promoting
-            social and economic justice in Nigeria. By
-            <br />
-            providing citizens with a new means of storing and
-            transferring value, we believe that ANNT can help to
-            <br />
-            reduce poverty and inequality and promote greater financial
-            inclusion for all.
-            <br />
-            Overall, our vision for ANNT is to empower the citizens of
-            Nigeria to take control of their financial
-            <br />
-            future and build a more prosperous life for themselves and a
-            future for their unborn generation.
-            <br />
-            Ultimately, to end the vicious circle of poverty, one family
-            at a time. We are committed to making this
-            <br />
-            vision a reality, and we look forward to working with you to
-            achieve it.
-          </p>
-        </div>
       </div>
       <div className="margin-top--1xlarge padding-top--4xlarge padding-top--zero--tablet color--white">
         <div className="wrapper--inner margin--center margin-top--small--mobile">
